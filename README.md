@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img src="圖片檔名.png" width="300" alt="image" />
+  <img src="124648531_p0.jpg" width="1200" alt="image" />
 </p>
