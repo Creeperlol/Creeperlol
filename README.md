@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Creeperlol&fontSize=70&fontAlignY=40&animation=fadeIn" alt="Creeperlol" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=400&height=40&lines=Creeperlol" alt="Creeperlol" />
 </p>
